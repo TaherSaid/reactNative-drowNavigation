@@ -1,0 +1,12 @@
+{
+  "name": "Tp4_DrawNavigation_Travail_a_Faire",
+  "displayName": "Tp4_DrawNavigation_Travail_a_Faire",
+  "expo": {
+    "name": "Tp4_DrawNavigation_Travail_a_Faire",
+    "slug": "Tp4_DrawNavigation_Travail_a_Faire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
